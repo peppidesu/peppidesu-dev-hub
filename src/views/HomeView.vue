@@ -96,12 +96,13 @@
             </div>
           </div>
           <div>
-            <h3>ARCHITECTURE</h3>
+            <h3>INRASTRUCTURE</h3>
             <div class="subsection-list subsection-list-border">
               <ul>
                 <li>Linux <span style="color: #343946">(arch btw)</span></li>
                 <li>nginx</li>
-                <li>HLSL</li>
+                <li>MongoDB</li>
+                <li>SQL</li>
               </ul>              
             </div>
             <h3>DEVOPS</h3>
