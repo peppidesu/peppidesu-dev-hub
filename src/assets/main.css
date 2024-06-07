@@ -1,0 +1,44 @@
+@import './base.css';
+@import './maple-mono.css';
+
+
+body {
+  font-family: "Maple Mono";
+  text-align: justify;
+}
+html {
+  scroll-behavior: smooth;
+  
+}
+
+#app {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0rem;
+  font-weight: normal;
+}
+
+a {
+  color: #ffcc66;
+  text-decoration: none;
+  padding-bottom: 2px;
+  box-shadow: inset 0 -1px 0 0 transparent;
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    box-shadow: inset 0 -1px 0 0 #ffcc66;
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    padding: 0 0rem;
+  }
+}
