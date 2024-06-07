@@ -128,7 +128,7 @@
             <div class="subsection-list subsection-list-border">
               <ul>
                 <li>Dutch<br><small>(native)</small></li>
-                <li>English<br><small>(Camebridge C2)</small></li>
+                <li>English<br><small>(Camebridge C1)</small></li>
               </ul>              
             </div>
           </div>
